@@ -1,0 +1,200 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nama": "Ilham",
+      "nip": "210001",
+      "phone": "085887395887",
+      "email": "ilham.ius13@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "Fauzi",
+      "nip": "210002",
+      "phone": "081234567891",
+      "email": "fauzi20@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "Niko",
+      "nip": "210003",
+      "phone": "081234567891",
+      "email": "niko11@gmail.com"
+    },
+    {
+      "id": 4,
+      "nama": "Kevin",
+      "nip": "210004",
+      "phone": "081234567891",
+      "email": "kevin22@gmail.com"
+    },
+    {
+      "id": 5,
+      "nama": "Nithi",
+      "nip": "210005",
+      "phone": "081234567891",
+      "email": "nithi.p@gmail.com"
+    },
+    {
+      "id": 6,
+      "nama": "Ridho",
+      "nip": "210006",
+      "phone": "081234567891",
+      "email": "ridhodho@gmail.com"
+    },
+    {
+      "id": 7,
+      "nama": "Bella",
+      "nip": "210007",
+      "phone": "081234567891",
+      "email": "bella94@gmail.com"
+    },
+    {
+      "id": 8,
+      "nama": "Andri",
+      "nip": "210008",
+      "phone": "081234567891",
+      "email": "andri.geovani@gmail.com"
+    },
+    {
+      "id": 9,
+      "nama": "Galih",
+      "nip": "210009",
+      "phone": "081234567891",
+      "email": "y.galih88@gmail.com"
+    },
+    {
+      "id": 10,
+      "nama": "Widia",
+      "nip": "210010",
+      "phone": "081234567891",
+      "email": "widia@gmail.com"
+    },
+    {
+      "id": 11,
+      "nama": "Hendri",
+      "nip": "210011",
+      "phone": "081234567891",
+      "email": "hendri@gmail.com"
+    },
+    {
+      "id": 12,
+      "nama": "Rosa",
+      "nip": "210012",
+      "phone": "081234567891",
+      "email": "rosa55@gmail.com"
+    },
+    {
+      "id": 13,
+      "nama": "Restu",
+      "nip": "210013",
+      "phone": "081234567891",
+      "email": "restu@gmail.com"
+    },
+    {
+      "id": 14,
+      "nama": "Endang",
+      "nip": "210014",
+      "phone": "081234567891",
+      "email": "endang47@gmail.com"
+    },
+    {
+      "id": 15,
+      "nama": "Ilham Maulana",
+      "nip": "210015",
+      "phone": "081234567891",
+      "email": "ilham.maulana@gmail.com"
+    },
+    {
+      "id": 16,
+      "nama": "Indri",
+      "nip": "210016",
+      "phone": "081234567891",
+      "email": "indri@gmail.com"
+    },
+    {
+      "id": 17,
+      "nama": "Irfan",
+      "nip": "210017",
+      "phone": "081234567891",
+      "email": "irfan@gmail.com"
+    },
+    {
+      "id": 18,
+      "nama": "Ryan",
+      "nip": "210018",
+      "phone": "081234567891",
+      "email": "ryan@gmail.com"
+    },
+    {
+      "id": 19,
+      "nama": "Keyza",
+      "nip": "210019",
+      "phone": "081234567891",
+      "email": "keyza@gmail.com"
+    },
+    {
+      "id": 20,
+      "nama": "Achmad",
+      "nip": "210020",
+      "phone": "081234567891",
+      "email": "achmad@gmail.com"
+    },
+    {
+      "id": 21,
+      "nama": "Meysi",
+      "nip": "210021",
+      "phone": "081234567891",
+      "email": "meysi96@gmail.com"
+    },
+    {
+      "id": 22,
+      "nama": "Dicky",
+      "nip": "210022",
+      "phone": "081234567891",
+      "email": "dicky24@gmail.com"
+    },
+    {
+      "id": 23,
+      "nama": "Edwin",
+      "nip": "210023",
+      "phone": "081234567891",
+      "email": "edwin97@gmail.com"
+    },
+    {
+      "id": 24,
+      "nama": "Dedi",
+      "nip": "210024",
+      "phone": "081234567891",
+      "email": "dedi05@gmail.com"
+    },
+    {
+      "nama": "Mia",
+      "nip": "210025",
+      "phone": "085577994878",
+      "email": "mia71@gmail.com",
+      "id": 25
+    },
+    {
+      "nama": "tes",
+      "nip": "210026",
+      "phone": "tes",
+      "email": "tes",
+      "id": 26
+    },
+    {
+      "nama": "Lisa",
+      "nip": "210034",
+      "phone": "081259877484",
+      "email": "lisa@gmail.com",
+      "id": 34
+    },
+    {
+      "nama": "tes2",
+      "nip": "210035",
+      "phone": "08121355441",
+      "email": "asas",
+      "id": 35
+    }
+  ]
+}
