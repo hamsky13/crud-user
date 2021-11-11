@@ -1,3 +1,9 @@
+untuk menjalankan aplikasi crud-user ini berikut langkah-langkahnya :
+
+1. jalankan json-server; masuk ke direktori src/fake-API dan jalankan command di terminal npx json-server db.json -p 3300
+2. lalu buka terminal baru untuk menjalankan aplikasi reactnya dengan menjalan kan command npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
